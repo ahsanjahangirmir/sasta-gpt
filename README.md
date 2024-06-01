@@ -11,7 +11,6 @@ In this project, I implement a Transformer model, `SastaGPT`, from scratch, base
 - [Model Implementation](#model-implementation)
 - [Training the Model](#training-the-model)
 - [Evaluation](#evaluation)
-- [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -67,4 +66,4 @@ If you would like to contribute to this project, please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-For any further questions, feel free to reach out to me at 25100325@lums.edu.pk
+For any further questions, feel free to contact me at 25100325@lums.edu.pk
